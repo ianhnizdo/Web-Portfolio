@@ -1,0 +1,15 @@
+/* .Nav {
+  display: flex;
+  flex-direction: row;
+  padding: 5%;
+} */
+
+.navbar {
+  
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 5%;
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #e5e5e5;
+}
